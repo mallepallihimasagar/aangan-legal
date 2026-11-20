@@ -1,0 +1,9 @@
+# GitHub Pages (Jekyll) settings for the public legal pages. Copied to the gh-pages branch
+# together with index.md, privacy-policy.md, terms.md and support.md (see docs/RELEASE.md).
+title: Aangan
+description: A daily diya for your family
+theme: jekyll-theme-minimal
+exclude:
+  - metadata.md
+  - check_metadata.py
+  - icon
