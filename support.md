@@ -5,7 +5,7 @@ permalink: /support/
 
 # Aangan support
 
-Write to us at **[support email address]**. We usually answer within two days. Please tell us your
+Write to us at **[himasagar.appledev@gmail.com](mailto:himasagar.appledev@gmail.com)**. We usually answer within two days. Please tell us your
 iPhone model, iOS version and the Aangan version (shown at the bottom of Settings).
 
 ## Common questions
