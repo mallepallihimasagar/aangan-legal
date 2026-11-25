@@ -5,12 +5,13 @@ permalink: /privacy/
 
 # Aangan Privacy Policy
 
-**Effective 21 November 2026**
+**Effective 26 November 2026** (from app version 1.0.2; see "Changes" for what changed)
 
 Aangan is a daily practice app for Hindu families, made by Himasagar Mallepalli
 ("we"). This policy explains what happens to your information when you use the Aangan app for iPhone.
-In short: **we have no accounts, no ads, no tracking and no server of our own. We cannot see your
-practice, your family or your location.**
+In short: **we have no accounts, no ads in the app and no server of our own. We cannot see your
+practice, your family or your location.** From version 1.0.2 the app tells Meta when it is installed
+and opened, so we can measure our ads on Facebook and Instagram (see "Meta" below).
 
 ## What stays with you
 
@@ -63,11 +64,29 @@ links that open in the YouTube app or Safari. Loading a thumbnail or opening a v
 request to Google, which receives your IP address and device details. Google's privacy policy applies
 on YouTube. Nothing is embedded in Aangan, and we receive nothing from YouTube.
 
-**Nobody else.** Aangan contains no advertising, analytics, attribution or crash-reporting SDKs.
+**Meta (Facebook and Instagram ads).** We advertise Aangan on Facebook and Instagram. From version
+1.0.2 the app includes Meta's software development kit (the Facebook SDK for iOS) so Meta can tell
+us how many people installed Aangan after seeing an ad. When you open the app, the SDK sends Meta:
+
+- that Aangan was installed or opened, and when,
+- an anonymous ID that Meta's SDK creates for this installation, and
+- technical details such as your device model, iOS version, app version, language, time zone and IP
+  address.
+
+It does **not** send your practice, your family, your location, your name or your contacts, and Aangan
+logs no other events. We have turned off collection of Apple's advertising identifier (IDFA), so the
+app never shows Apple's "Allow tracking" prompt, and Meta's optional collection of screen details is
+off. Meta may combine this information with what it already knows about you if you use Facebook or
+Instagram, to report ad results and improve its ads. Meta's handling is covered by
+[Meta's Privacy Policy](https://www.facebook.com/privacy/policy). You can limit how Meta uses
+information from other apps in Facebook's "Your activity off Meta technologies" settings.
+
+**Nobody else.** Aangan contains no other advertising, analytics, attribution or crash-reporting SDKs.
 If you choose to share crash reports with developers in iOS settings, Apple sends us anonymous crash
 logs; you can turn that off at any time in Settings › Privacy & Security › Analytics & Improvements.
 
-We do not sell or share personal information, and we do not track you across apps or websites.
+We do not sell personal information. Apart from the install and open events sent to Meta described
+above, we do not share information about you for advertising.
 
 ## Your choices and rights
 
@@ -97,7 +116,10 @@ shows only YouTube links we have checked, and they open outside the app.
 ## Changes
 
 If this policy changes, we will update the date above and describe the change in the app's release
-notes. If a change would let us collect something new, we will ask you in the app first.
+notes.
+
+**26 November 2026 (version 1.0.2):** added the Meta SDK section above. Earlier versions of Aangan
+(1.0 and 1.0.1) do not include it and send nothing to Meta.
 
 ## Contact
 

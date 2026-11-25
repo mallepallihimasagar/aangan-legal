@@ -46,6 +46,8 @@ Settings › Privacy › Export my practice history saves a file of everything. 
 and then delete Aangan's data in iPhone Settings › [your name] › iCloud › Manage Account Storage.
 
 **Is my data private?**
-Yes. No account, no ads, no tracking. See the [privacy policy](../privacy/).
+Yes. There is no account and no ads in the app, and your practice stays on your iPhone and in your own
+iCloud. The app tells Meta only when it is installed and opened, to measure our Facebook and Instagram
+ads. See the [privacy policy](../privacy/).
 
 [Terms of Use](../terms/) · [Privacy Policy](../privacy/)
